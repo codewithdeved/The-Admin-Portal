@@ -1,0 +1,85 @@
+# Admin Portal
+
+## Overview
+The **Admin Portal** is a Java-based application designed for efficient student records and administrative task 
+management. It provides a secure and scalable platform with core functionalities and modular design, enabling 
+seamless integration of additional features in the future.
+
+---
+
+## Current Features
+
+1. **Student Record Management**:
+   - Create, Read, Update, and Delete (CRUD) operations for student records.
+
+2. **Secure Authentication**:
+   - Login system with robust authentication mechanisms.
+   - Password reset functionality.
+   - Email recovery for forgotten credentials.
+
+3. **Task Logging**:
+   - Tracks administrative activities to ensure accountability.
+
+4. **System Summaries**:
+   - Provides concise reports and overviews of system operations.
+
+---
+
+## Planned Features
+
+1. **Attendance Tracking**:
+   - Module for tracking and managing student attendance records.
+
+2. **Test Score Management**:
+   - Feature to log, update, and analyze student test scores.
+
+3. **Additional Functionalities**:
+   - Timetable management.
+   - Announcements and notifications.
+   - Role-based access for different users (e.g., admin, teacher, student).
+
+---
+
+## Technical Details
+
+- **Programming Language**: Java
+- **Development Environment**: Compatible with IntelliJ IDEA, Eclipse, or any standard Java IDE.
+- **Database**: Planned integration with MySQL/PostgreSQL for efficient data management.
+- **Design Principles**: Scalable and modular architecture for easy extension.
+
+---
+
+## How to Use
+
+1. **Setup**:
+   - Clone the repository.
+   - Import the project into your preferred Java IDE.
+   - Ensure you have the required Java Development Kit (JDK) installed.
+
+2. **Run the Application**:
+   - Compile and run the `Main` class to start the portal.
+
+3. **Login**:
+   - Use the secure login system to access features.
+   - Recover or reset passwords if needed using the email recovery system.
+
+4. **Manage Records**:
+   - Add, view, edit, or delete student records via the admin interface.
+
+5. **Explore Logs and Summaries**:
+   - View logs to track administrative activities and system summaries for insights.
+
+---
+
+## Contribution
+
+This project is open for contributions. Feel free to suggest improvements or develop planned features. Ensure code quality and adherence to best practices when submitting changes.
+
+---
+
+## Contact
+
+For queries or further assistance, contact the original developer:
+**Tayyab Ali**
+
+---
